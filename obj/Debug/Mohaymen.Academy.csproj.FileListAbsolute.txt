@@ -1,0 +1,7 @@
+C:\Users\Mohaymen\RiderProjects\Mohaymen.Academy\bin\Debug\Mohaymen.Academy.exe
+C:\Users\Mohaymen\RiderProjects\Mohaymen.Academy\bin\Debug\Mohaymen.Academy.pdb
+C:\Users\Mohaymen\RiderProjects\Mohaymen.Academy\obj\Debug\Mohaymen.Academy.csproj.AssemblyReference.cache
+C:\Users\Mohaymen\RiderProjects\Mohaymen.Academy\obj\Debug\Mohaymen.Academy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohaymen\RiderProjects\Mohaymen.Academy\obj\Debug\Mohaymen.Academy.csproj.CoreCompileInputs.cache
+C:\Users\Mohaymen\RiderProjects\Mohaymen.Academy\obj\Debug\Mohaymen.Academy.exe
+C:\Users\Mohaymen\RiderProjects\Mohaymen.Academy\obj\Debug\Mohaymen.Academy.pdb
